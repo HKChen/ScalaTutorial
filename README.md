@@ -5,6 +5,6 @@ Because, I thought that learning scala is not enough on console mode.
 
 You can Download booksite code here http://booksites.artima.com/programming_in_scala_2ed
 
-And I'll extra codes to compare with books codes.
+And I'll write extra codes to compare with booksite codes.
 
 Hope it will help you to understand the Scala process. 
