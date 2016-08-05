@@ -31,17 +31,22 @@ object ArrayWay {
         
         // filter
         val arrNum = Array(10, 20, 30 ,40 ,50)
-        arrNum.filter { x => x > 30 }.foreach { println }
-        arrNum.filter { _ > 30 }.foreach { println }
+        arrNum.filter { x => x > 30 }.mkString(",").foreach { print }
+        println
+        arrNum.filter { _ > 30 }.mkString(",").foreach { print }
+        println
         // map
-        arrNum.map { x => x + 1 }.foreach { println }
-        arrNum.map { _ + 1 }.foreach { println }
+        arrNum.map { x => x + 1 }.mkString(",").foreach { print }
+        println
+        arrNum.map { _ + 1 }.mkString(",").foreach { print }
+        println
                 
         // link array
         val arr1 = Array(10, 20, 30)
         val arr2 = Array(40, 50, 60)
-        (arr1 ++ arr2).foreach { println} // using ++ not +
-                
+        (arr1 ++ arr2).mkString(",").foreach { print } // using ++ not +
+        println
+        
         // compare value
         val arr3 = Array(10, 20, 30)
         val arr4 = Array(10, 20, 30)  
