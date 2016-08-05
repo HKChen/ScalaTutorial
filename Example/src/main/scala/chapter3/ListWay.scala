@@ -32,8 +32,6 @@ object ListWay {
         
         val list2 = List(1, 2, 4, 5)
         def remove(num: Int, list: List[Int]) = list diff List(num)
-        println(remove(2, list2)) // remove the element int 2 from list2
-        println(list2.drop(2)) // drop first and second's element
-        
+        println(remove(2, list2)) // remove the element int 2 from list2    
     }
 }
