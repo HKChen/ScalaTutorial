@@ -1,4 +1,4 @@
-package main.scala.chapter2
+ package main.scala.chapter2
 
 object GettingArgument {
     def main(args: Array[String]): Unit={
