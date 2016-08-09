@@ -10,7 +10,7 @@
 >There have codes that can't run in old version, I'll tip you :)
 
 ## Installation
-To make sure you complete to install Java
+>To make sure you complete to install Java
 
 OS X:
 ```sh
@@ -43,7 +43,7 @@ https://www.jetbrains.com/idea/
 
 ##IDE plugin scala
 
-If you choose Eclipse or IntelliJ IDEA, you must install scala plugin
+>If you choose Eclipse or IntelliJ IDEA, you must install scala plugin
 
 Eclipse
 
