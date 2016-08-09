@@ -3,7 +3,6 @@ scala:
   - 2.11.8
 
 jdk:
-  - oraclejdk8
-  - openjdk8
+  - JDK 1.8.0_102-b14
 
 script: sbt ++$TRAVIS_SCALA_VERSION check-gen-type-classes test
