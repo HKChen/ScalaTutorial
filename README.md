@@ -10,7 +10,7 @@
 >There have codes that can't run in old version, I'll tip you :)
 
 ## Installation
-To make sure you had installed Java
+To make sure you complete to install Java
 
 OS X:
 ```sh
