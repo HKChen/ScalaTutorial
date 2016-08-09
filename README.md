@@ -4,7 +4,7 @@
 >I'm working on scala version 2.11.8 and Eclipse IDE.
 >And I'll write extra codes to compare with booksite codes.
 >Hope it will help you to understand the Scala process.
->>Booksite code here http://booksites.artima.com/programming_in_scala_2ed
+>Booksite code here http://booksites.artima.com/programming_in_scala_2ed
 
 ## Installation
 
