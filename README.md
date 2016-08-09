@@ -1,4 +1,5 @@
 # ScalaTutorial
+[![Build Status](https://travis-ci.org/HKChen/ScalaTutorial.svg?branch=master)](https://travis-ci.org/HKChen/ScalaTutorial)
 >This is scala tutorial from "Programming in Scala 2nd" on Eclipse by myself. 
 >Because, I thought that learning scala is not enough on console mode.
 >I'm working on scala version 2.11.8 and Eclipse IDE on OS X.
