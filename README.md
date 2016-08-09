@@ -51,3 +51,12 @@ If you choose Eclipse or IntelliJ IDEA, you must install scala plug-in
 
 Using `Help` → `Install New Software` → Click `add` button in work with dialog → To type `Scala` in Name and copy past `http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site` url in Location → and choose Scala IDE for * → Install it!
 
+>IntelliJ IDEA
+
+Reference
+
+https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-application.html
+
+Or Download
+
+https://plugins.jetbrains.com/plugin/?id=1347
