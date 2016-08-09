@@ -28,6 +28,9 @@ http://www.tutorialspoint.com/scala/scala_environment_setup.htm
 http://www.scala-lang.org/download/
 
 ##Development IDE
+
+IDE choice
+
 >Eclipse 
 
 https://eclipse.org/downloads/
@@ -35,4 +38,16 @@ https://eclipse.org/downloads/
 >Scala IDE
 
 http://scala-ide.org/
+
+>IntelliJ IDEA
+
+https://www.jetbrains.com/idea/
+
+##IDE plug-in scala
+
+If you choose Eclipse or IntelliJ IDEA, you must install scala plug-in
+
+>Eclipse
+
+Using Help
 
