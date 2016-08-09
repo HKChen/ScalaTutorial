@@ -26,3 +26,13 @@ http://www.tutorialspoint.com/scala/scala_environment_setup.htm
 >Download scala
 
 http://www.scala-lang.org/download/
+
+##Development IDE
+>Eclipse 
+
+https://eclipse.org/downloads/
+
+>Scala IDE
+
+http://scala-ide.org/
+
