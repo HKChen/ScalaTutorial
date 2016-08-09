@@ -29,17 +29,15 @@ http://www.scala-lang.org/download/
 
 ##Development IDE
 
-IDE choice
-
->Eclipse 
+Eclipse 
 
 https://eclipse.org/downloads/
 
->Scala IDE
+Scala IDE
 
 http://scala-ide.org/
 
->IntelliJ IDEA
+IntelliJ IDEA
 
 https://www.jetbrains.com/idea/
 
@@ -47,16 +45,16 @@ https://www.jetbrains.com/idea/
 
 If you choose Eclipse or IntelliJ IDEA, you must install scala plugin
 
->Eclipse
+Eclipse
 
 Using `Help` → `Install New Software` → Click `add` button in work with dialog → To type `Scala` in Name and copy past `http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site` url in Location → and choose Scala IDE for * → Install it!
 
->IntelliJ IDEA
+IntelliJ IDEA
 
-Reference
+>Reference
 
 https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-application.html
 
-Or Download
+>Or Download
 
 https://plugins.jetbrains.com/plugin/?id=1347
