@@ -16,6 +16,9 @@ brew install scala
 
 Windows & Linux's setting and download:
 >Environment Setup reference
+
 http://www.tutorialspoint.com/scala/scala_environment_setup.htm
->download scala
+
+>Download scala
+
 http://www.scala-lang.org/download/
