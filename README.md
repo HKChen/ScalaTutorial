@@ -8,6 +8,8 @@
 >There have codes that can't run in old version, I'll tip you :)
 
 ## Installation
+To make sure you had installed Java
+
 OS X:
 ```sh
 brew update
