@@ -2,9 +2,5 @@ language: scala
 scala:
    - 2.11.8
 
-jdk:
-   - oraclejdk8 scala
-   - openjdk6 scala
-
 notifications:
   email: ilikeiceblue@gmail.com
