@@ -43,9 +43,9 @@ http://scala-ide.org/
 
 https://www.jetbrains.com/idea/
 
-##IDE plug-in scala
+##IDE plugin scala
 
-If you choose Eclipse or IntelliJ IDEA, you must install scala plug-in
+If you choose Eclipse or IntelliJ IDEA, you must install scala plugin
 
 >Eclipse
 
