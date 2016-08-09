@@ -1,6 +1,6 @@
 # ScalaTutorial
 [![Scala Version][scala-image]][scala-url]
-
+![](header.png)
 This is scala tutorial from "Programming in Scala 2nd" on Eclipse by myself. 
 
 Because, I thought that learning scala is not enough on console mode.
