@@ -8,4 +8,8 @@
 >There have codes that can't run in old version, I'll tip you :)
 
 ## Installation
-
+OS X & Linux:
+```sh
+$ brew update
+$ brew install scala
+```
