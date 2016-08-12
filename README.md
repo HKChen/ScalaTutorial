@@ -58,3 +58,5 @@ https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-appli
 >Or Download
 
 https://plugins.jetbrains.com/plugin/?id=1347
+
+##[Scala version changed issues](https://github.com/HKChen/ScalaTutorial/wiki/Scala-version-changed-issues)
