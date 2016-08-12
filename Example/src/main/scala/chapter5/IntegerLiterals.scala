@@ -25,5 +25,13 @@ object IntegerLiterals {
         val tower = 35L
         val of = 31l
         println("Long integer: " + prog + ", " + tower + ", " + of)
+        
+        // short
+        val little: Short = 367
+        println("short: " + little)
+        
+        // byte
+        val littler: Byte = 38
+        println("byte: " + littler)
     }
 }
