@@ -30,11 +30,6 @@ object ChecksumAccumulator {
         ChecksumAccumulator.calculate("Every value is an object")
         // A's ASCII is 65
         println("String Convert to ASCII's Result : "+ calculate("A"))
-        
-        // Listing 4.4 example
-        val list = List("Spring", "Summer", "Fall", "Winter")
-        for(season <- list)
-        println(season + " String Convert to ASCII's Result : "+ calculate(season))
     }
 }
 
