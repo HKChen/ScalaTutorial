@@ -44,7 +44,7 @@ Eclipse
 
 Using `Help` → `Install New Software` → Click `add` button in work with dialog → To type `Scala` in Name and copy past `http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site` url in Location → and choose Scala IDE for * → Install it!
 
-IntelliJ IDEA
+*IntelliJ IDEA
 
 >Reference
 https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-application.html
