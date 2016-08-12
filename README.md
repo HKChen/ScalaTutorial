@@ -58,3 +58,4 @@ https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-appli
 https://plugins.jetbrains.com/plugin/?id=1347
 
 ##[Scala version changed issues](https://github.com/HKChen/ScalaTutorial/wiki/Scala-version-changed-issues)
+> There are examples that is old scala version method in book, so I'll tell you and new a example method to use in new version.
