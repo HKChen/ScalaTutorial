@@ -20,10 +20,10 @@ brew install scala
 
 * Windows & Linux's setting and download:
 
->Environment Setup reference
+1. Environment Setup reference
 http://www.tutorialspoint.com/scala/scala_environment_setup.htm
 
->Download scala
+2. Download scala
 http://www.scala-lang.org/download/
 
 ##Development IDE
@@ -47,10 +47,10 @@ Using `Help` → `Install New Software` → Click `add` button in work with dial
 
 * IntelliJ IDEA
 
->Reference
+1. Reference
 https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-application.html
 
->Or Download
+2. Or Download
 https://plugins.jetbrains.com/plugin/?id=1347
 
 ##[Scala version changed issues](https://github.com/HKChen/ScalaTutorial/wiki/Scala-version-changed-issues)
