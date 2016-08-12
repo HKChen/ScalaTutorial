@@ -30,15 +30,12 @@ http://www.scala-lang.org/download/
 ##Development IDE
 
 Eclipse 
-
 https://eclipse.org/downloads/
 
 Scala IDE
-
 http://scala-ide.org/
 
 IntelliJ IDEA
-
 https://www.jetbrains.com/idea/
 
 ##IDE plugin scala
