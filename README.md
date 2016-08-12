@@ -12,13 +12,13 @@
 ## Scala install
 >To make sure you complete to install Java
 
-OS X:
+* OS X:
 ```sh
 brew update
 brew install scala
 ```
 
-Windows & Linux's setting and download:
+* Windows & Linux's setting and download:
 >Environment Setup reference
 http://www.tutorialspoint.com/scala/scala_environment_setup.htm
 
@@ -27,20 +27,20 @@ http://www.scala-lang.org/download/
 
 ##Development IDE
 
-Eclipse 
+* Eclipse 
 https://eclipse.org/downloads/
 
-Scala IDE
+* Scala IDE
 http://scala-ide.org/
 
-IntelliJ IDEA
+* IntelliJ IDEA
 https://www.jetbrains.com/idea/
 
 ##IDE plugin scala
 
 >If you choose Eclipse or IntelliJ IDEA, you must install scala plugin
 
-Eclipse
+* Eclipse
 
 Using `Help` → `Install New Software` → Click `add` button in work with dialog → To type `Scala` in Name and copy past `http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site` url in Location → and choose Scala IDE for * → Install it!
 
