@@ -9,7 +9,7 @@
 >You can download the booksite code here http://booksites.artima.com/programming_in_scala_2ed
 >There have codes that can't run in old version, I'll tip you :)
 
-## Installation
+## Scala install
 >To make sure you complete to install Java
 
 OS X:
