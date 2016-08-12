@@ -52,11 +52,9 @@ Using `Help` → `Install New Software` → Click `add` button in work with dial
 IntelliJ IDEA
 
 >Reference
-
 https://www.jetbrains.com/help/idea/2016.2/creating-and-running-your-scala-application.html
 
 >Or Download
-
 https://plugins.jetbrains.com/plugin/?id=1347
 
 ##[Scala version changed issues](https://github.com/HKChen/ScalaTutorial/wiki/Scala-version-changed-issues)
