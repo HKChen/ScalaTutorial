@@ -1,6 +1,5 @@
 package main.scala.chapter4
 
-//You can define the same name of object and class
 import scala.collection.mutable.Map
 import com.sun.javafx.css.CalculatedValue
 
@@ -31,9 +30,15 @@ object ChecksumAccumulator {
         ChecksumAccumulator.calculate("Every value is an object")
         // A's ASCII is 65
         println("String Convert to ASCII's Result : "+ calculate("A"))
+        
+        // Listing 4.4 example
+        val list = List("Spring", "Summer", "Fall", "Winter")
+        for(season <- list)
+        println(season + " String Convert to ASCII's Result : "+ calculate(season))
     }
 }
 
+//You can define the same name of object and class
 class ChecksumAccumulator{
     private var sum = 0
     def add (i: Int) {sum += i}
